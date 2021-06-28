@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bold.png</file>
+        <file>img/close.png</file>
+        <file>img/color.png</file>
+        <file>img/copy.svg</file>
+        <file>img/cut.png</file>
+        <file>img/i.png</file>
+        <file>img/icon.qrc</file>
+        <file>img/iconn.qrc</file>
+        <file>img/just.png</file>
+        <file>img/left.png</file>
+        <file>img/middle.png</file>
+        <file>img/new.svg</file>
+        <file>img/open.svg</file>
+        <file>img/paste.svg</file>
+        <file>img/redo.svg</file>
+        <file>img/replace.svg</file>
+        <file>img/right.png</file>
+        <file>img/save.svg</file>
+        <file>img/saveas.png</file>
+        <file>img/search.svg</file>
+        <file>img/size.png</file>
+        <file>img/underline.png</file>
+        <file>img/undo.svg</file>
+        <file>img/zoomin.svg</file>
+        <file>img/zoomout.svg</file>
+    </qresource>
+</RCC>
