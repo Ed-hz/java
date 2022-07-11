@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Java two_week",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/two_week/bin",
+      "sourcePaths": ["$(workspaceRoot)/src"],
+      "classPaths": ["", "$(workspaceRoot)/bin"],
+      "mainClass": "${workspaceFolder}/two_week/bin/chap3/${fileBasenameNoExtension}.class",
+      "args": ""
+    }
+  ]
+}
